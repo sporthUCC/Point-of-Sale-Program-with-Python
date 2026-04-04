@@ -5,7 +5,6 @@ Date Created: April 4, 2026
 Course: ITT103
 
 GitHub Public URL to Code:
-
  
 
 The purpose of the program:
@@ -14,11 +13,9 @@ This program's goal was to develop an easy-to-use point-of-sale system.
 
 to assist Best Buy retail locations in efficiently processing customer orders while upholding a straightforward yet effective approach to assist Best Buy in digitizing its sales process and increasing productivity.
 
- 
 
 How the program runs
 
- 
 
 1. Initializing: The program begins by displaying a product catalog containing at least 10 items (e.g., Kiss Cake, Foska Oats, and Dettol Soap) with their respective prices and stock levels.
 
@@ -44,7 +41,6 @@ Required Modification:
 - Using external databases, like MySQL, to safely store transactions and client information.
 
 
-
 Assumptions:
 
 - All transactions are processed in Jamaican Dollars (JMD).
@@ -55,16 +51,14 @@ Assumptions:
 
 - The person using the POS system is a trained cashier.
 
- 
 
 Limitations:
 
-Static Data: The product catalog is hard-coded information. There is not a separate database like for MySQL or MongoDB, which is disadvantageous, especially from a user perspective.
+-Static Data: The product catalog is hard-coded information. There is not a separate database like for MySQL or MongoDB, which is disadvantageous, especially from a user perspective.
 
-Temporary Data: Because there is no external database, all the data is lost when the program restarts.
+-Temporary Data: Because there is no external database, all the data is lost when the program restarts.
 
-User Interface: The code uses the command-line interface and does not have a graphical user interface.
+-User Interface: The code uses the command-line interface and does not have a graphical user interface.
 
- 
 
 "I CERTIFY THAT I HAVE NOT GIVEN OR RECEIVED ANY UNAUTHORIZED ASSISTANCE ON THIS ASSIGNMENT."
