@@ -4,7 +4,7 @@ Date Created: April 4, 2026
 
 Course: ITT103
 
-GitHub Public URL to Code:
+GitHub Public URL to Code: https://github.com/sporthUCC/Point-of-Sale-Program-with-Python
  
 
 The purpose of the program:
