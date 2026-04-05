@@ -410,7 +410,7 @@ def clear_cart():
     if cart == []:
         print("Cart is already empty!")
         return
-    #loop keeps running until a valid Y or N is enteres
+    #loop keeps running until a valid Y or N is entered
     while True:
       #asking the cashier to confirm before clearing
       #This prevents accidental loss of all cart data
